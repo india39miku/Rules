@@ -1,58 +1,41 @@
-# India-39 WhatsApp Community
+# 🎶 India-39 WhatsApp Community 🎶  
 
-Welcome to the **India-39 WhatsApp Community!** Our aim is to bring **Indian Vocaloid/Miku/Voice Synth fans together** and introduce new people in the country to Vocaloid. 
+Hi! Welcome to the **India-39 WhatsApp community!**  
+Our aim is to bring **Indian Vocaloid/Miku/Voice synth fans together** as well as introduce new people in the country to Vocaloid!  
 
-## 🎯 Our Goal
-Our main goal as of now is to **bring Miku Expo to India**, and we hope everyone here will help us achieve this!
+Our main goal as of now is to **bring Miku Expo to India**, and we hope everyone here will help us achieve this!  
 
-## 📜 Community Rules
-
-Please take some time to familiarize yourself with the rules before joining us:
-
-### 1. Respect for All  
-- Be respectful of others, including their **pronouns, gender, sexuality, religion, language, etc.**  
-- Discrimination or disrespect will **not** be tolerated.
-
-### 2. Safe Space for LGBT+ Members  
-- This community is meant to be a safe place for LGBT+ members.  
-- **No homophobia, transphobia, acephobia, biphobia, etc.**  
-
-### 3. Language Policy  
-- Please stick to **English** in this community for inclusivity and effective moderation.  
-- If there is enough demand, language-specific groups **may be added later** with proper moderation.
-
-### 4. No Harassment or Cyber Bullying  
-- **Harassment, sexual harassment, targeted harassment, and cyber bullying are strictly prohibited.**  
-- **Legal action** can and will be taken in case of any reports of harassment or bullying.  
-- Cyber harassment is **illegal in India**, and **offenders may face legal consequences**.
-
-### 5. Reporting Issues  
-- If you face harassment or bullying, **message a mod** instead of publicly calling someone out.  
-- We will try to resolve issues in a fair and safe manner.
-
-### 6. No Unwanted DMs  
-- Do not DM members unless they are comfortable with it.  
-- If you receive questionable or creepy messages, **report them to the admins**.
-
-### 7. No NSFW or 18+ Content  
-- This community is for all ages, so **NSFW, suggestive, or 18+ content is not allowed**.  
-- Discussion of **voice synth songs** with 18+ themes is allowed.
-
-### 8. No Casteism or Religious Discrimination  
-- **Casteist and religious discrimination will not be tolerated**.  
-- **Caste-based insults (SC/ST/OBC) are punishable by law** and will be reported.  
-- Avoid religious discussions unless it is related to a song’s symbolism.
-
-### 9. No Server Raiding or Unauthorized Promotions  
-- Do not **promote other groups/servers** here without permission.  
-- Avoid **sharing uncredited artwork**. If sharing, include proper **credits and a link to the original post**.
-
-### 10. No Piracy Discussion  
-- **Do not discuss or promote piracy**, especially related to voice synth software.  
-- Our goal is to be **officially recognized by voice synth companies** and bring concerts to India.  
-- There are **free and legal** ways to experiment with the software, so please avoid pirating.
+Please take some time to familiarise yourself with the rules before you join us!  
 
 ---
 
-Thank you for being a part of India-39! Let’s work together to make Vocaloid and voice synth culture grow in India! 🎶🇮🇳
-# Rules
+## 📜 Community Rules  
+
+- **Please be respectful of others.** This includes being respectful of their **pronouns, gender, sexuality, religion, language, etc.**  
+
+- This community is meant to be a **safe place for those of LGBT+ orientations**. Any **homophobia/transphobia/ace-phobia/bi-phobia/etc.** will not be tolerated here.  
+
+- **Please stick to using English** in this community. This allows everyone to be included in the conversation and also allows for more effective moderation. If there is enough demand, specific language groups will be added later provided we can find a moderator fluent in the language who will uphold the values of this community.  
+
+- **PLEASE NO HARASSMENT OR CYBER BULLYING.** Harassment, sexual harassment, targeted harassment, cyber bullying, etc., are a **STRICT NO**. As we all live in South Asia and are subject to the same laws, **LEGAL ACTION CAN AND WILL BE TAKEN** in case of any reports of harassment or bullying.  
+
+- **Cyber harassment and bullying are illegal in India,** and the relevant authorities will be informed and your data provided to them in case of transgressions. Unless you want to go to jail, or endure the Indian legal system for like 10 years, **PLEASE DO NOT HARASS PEOPLE OR MAKE THEM FEEL UNSAFE.**  
+
+- In case of incidents of harassment or bullying, **please message a mod** about the same and let us know what has happened. Please do not directly call out anyone publicly before first discussing with the mods and trying to find a solution with the mod team.  
+
+- **Please do not message people privately unless they are comfortable with it.** If you receive questionable/creepy DMs, report them to the admins or mods via public or private means.  
+
+- **NSFW, 18+, and suggestive content are not allowed here.** This community is meant for people of all ages so 18+ content is not allowed (**unless it’s referring to popular voice synth songs**).  
+
+- **Casteism and religious discrimination will not be tolerated here.** Casteism is punishable by law, and any insults targeting **SC/ST/OBC** can make you legally liable. It will be reported to the relevant authorities, and messages will be preserved as evidence for court.  
+
+- **Please avoid religious discussions here.** Talking about religious symbolism in a song is okay, but promoting your religion or unnecessarily bringing it into the discussion is not encouraged.  
+
+- **Please do not brigade and promote other groups or servers here.** Additionally, try to avoid sharing **art that isn’t your own**. Art that is shared which you haven’t created should contain **credits and a link to the original post** (*Google Images is not a link to the original post*). If you don’t have credits for the art, don’t share the art.  
+
+- **Please no piracy and discussion of piracy here,** especially of **voice synth software**. Our purpose is to **get officially recognised by Voice synth companies and bring concerts to India**, and **pirating voice synth content will not help that goal**. Please be sure to acquire voice synths **legally**. There are a lot of **free and legal ways** to experiment with the software, so please don't resort to pirating it.  
+
+---
+
+Thank you for being a part of **India-39!** 💙  
+Let’s work together to make **Vocaloid and voice synth culture grow in India!** 🎤✨  
